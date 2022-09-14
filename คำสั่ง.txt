@@ -1,0 +1,69 @@
+
+l/clip Plays a clip sound
+
+l/clips List all clips
+
+l/help Display all commands and descriptions/
+
+l/invite To add/invite the bot to your server/
+
+l/loop Toggle music loop/
+
+l/lyrics Get lyrics for the currently playing song /
+
+l/move Move songs around in the queue/
+
+l/np Show now playing song/
+
+l/pause Pause the currently playing music/
+
+l/ping Show the bot's average ping/
+
+l/play Plays audio from YouTube or Soundcloud/
+
+l/playlist Play a playlist from youtube/
+
+l/pruning Toggle pruning of bot messages
+
+l/queue Show the music queue and now playing./
+
+l/remove Remove song from the queue/
+
+l/resume Resume currently playing music/
+
+l/search Search and select videos to play/
+
+l/shuffle Shuffle queue/
+ 
+l/skip Skip the currently playing song/
+
+l/skipto Skip to the selected queue number/
+
+l/stop Stops the music/
+ 
+l/uptime Check the uptime/
+
+l/volume Change volume of currently playing music\
+
+ สี Embed #00c8ff
+ทั้งหมด 23 คำสั่ง
+play เสร็จเเล้ว
+playlist เสร็จเเล้ว
+include/play เสร็จเเล้ว
+help เสร็จเเล้ว
+loop เสร็จเเล้ว
+queue เสร็จเเล้ว
+volume เสร็จเเล้ว
+lyrics เสร็จเเล้ว
+move เสร็จเเล้ว
+ืnowplaying เสร็จเเล้ว
+pause เสร็จเเล้ว
+ping เสร็จเเล้ว
+remove เสร็จเเล้ว
+shuffle เสร็จเเล้ว
+skip เสร็จเเล้ว
+skipto เสร็จเเล้ว
+stats เสร็จเเล้ว
+stop เสร็จเเล้ว
+
+
